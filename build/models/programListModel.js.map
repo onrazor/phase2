@@ -1,0 +1,1 @@
+{"version":3,"file":"ProgramListModel.js","sourceRoot":"","sources":["../../src/models/ProgramListModel.ts"],"names":[],"mappings":";;AAAA,qCAAyC;AAEzC,IAAI,iBAAiB,GAAW,IAAI,iBAAM,CAAC;IAC3C,IAAI,EACJ;QACA,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;QACd,MAAM,EAAE,IAAI;KACX;CACA,CAAC,CAAC;AACH,kBAAe,gBAAK,CAAC,aAAa,EAAE,iBAAiB,CAAC,CAAC"}

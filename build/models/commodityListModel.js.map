@@ -1,0 +1,1 @@
+{"version":3,"file":"commodityListModel.js","sourceRoot":"","sources":["../../src/models/commodityListModel.ts"],"names":[],"mappings":";;AAAA,qCAAyC;AAEzC,IAAI,mBAAmB,GAAW,IAAI,iBAAM,CAAC;IAC7C,IAAI,EACJ;QACA,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;QACd,MAAM,EAAE,IAAI;KACX;CACA,CAAC,CAAC;AACH,kBAAe,gBAAK,CAAC,eAAe,EAAE,mBAAmB,CAAC,CAAC"}
